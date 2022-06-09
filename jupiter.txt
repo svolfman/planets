@@ -1,1 +1,3 @@
 A sentence about Jupiter in my planets directory.
+Jupiter is large.
+There are big storms.
